@@ -99,11 +99,14 @@
     - A anotação ``@Mock`` é usada na biblioteca Mockito para criar um objeto simulado (mock) de uma classe ou interface em um teste. Ela permite simular o comportamento de um objeto real durante a execução do teste, sem a necessidade de criar uma instância real da classe.
 - **Qual a finalidade da annotation ``@InjectMocks`` ?**
     - A annotation ``@InjectMocks`` é usada em testes de unidade com o framework Mockito para injetar automaticamente instâncias de objetos anotados com ``@Mock`` em objetos que são instâncias da classe sendo testada.
+- **Já teve um cenário onde utilizou TDD?**
+
 
 # Boas práticas de desenvolvimento
 
-- Cite algumas boas práticas na escrita de código limpo:
-Nomes significativos: Utilizar nomes significativos para variáveis, métodos e classes ajuda a tornar o código mais legível e fácil de entender.
+- **Cite algumas boas práticas na escrita de código limpo:**
+
+    - Nomes significativos: Utilizar nomes significativos para variáveis, métodos e classes ajuda a tornar o código mais legível e fácil de entender.
 
     - Funções pequenas e bem definidas: É importante criar funções que tenham apenas uma responsabilidade, sejam fáceis de entender e possam ser facilmente reutilizáveis em outros lugares do código.
 
@@ -113,10 +116,32 @@ Nomes significativos: Utilizar nomes significativos para variáveis, métodos e 
 
     - Testes automatizados: Testes automatizados são essenciais para garantir a qualidade do código e reduzir a ocorrência de bugs. Eles também ajudam na manutenção do código, pois permitem verificar se as alterações realizadas não impactaram outras partes do sistema.  
 
+- **Fale o que você sabe sobre Design Patterns.** 
+    - Já fez uso de algum? Qual o cenário?
+- **Fale sobre os padrões de arquitetura utilizados nos projetos de software.**
+    - Arquitetura hexagonal
+    - Onion Architecture
+    - Clean Architecture
+    - Padrão Camandas
+
+
+# Gerais
+
+- **Qual a diferença de SQL e no SQL?**
+    - Cite quais você já trabalhou.
+- ****
 
 
 
-Fonte: [seujorge - Java: Perguntas em Entrevistas Técnicas - 1](https://www.tabnews.com.br/seujorge/java-perguntas-em-entrevistas-tecnicas-programacao-orientada-a-objetos-parte-i)
+
+
+
+
+
+
+Fonte:
+
+[seujorge - Java: Perguntas em Entrevistas Técnicas - 1](https://www.tabnews.com.br/seujorge/java-perguntas-em-entrevistas-tecnicas-programacao-orientada-a-objetos-parte-i)
 
 [seujorge - Java: Perguntas em Entrevistas Técnicas - 2](https://www.tabnews.com.br/seujorge/java-perguntas-em-entrevistas-tecnicas-programacao-orientada-a-objetos-parte-ii)
 
